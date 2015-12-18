@@ -35,6 +35,7 @@ namespace Day5
             reader = new StreamReader(@"D:\Dropbox\Projects\C#\AdventOfCode\Day5\input5day.txt");
 
             //(..).*\1 regex chech for a pair of any two letters that appears at least twice in the string without overlapping
+            //(.).\1 regex check for "xyx" and sth like that
             while (!reader.EndOfStream)
             {
                 string line = reader.ReadLine();

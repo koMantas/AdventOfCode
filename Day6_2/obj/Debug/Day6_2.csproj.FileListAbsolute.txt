@@ -1,0 +1,5 @@
+D:\Dropbox\Projects\C#\AdventOfCode\Day6_2\bin\Debug\Day6_2.exe.config
+D:\Dropbox\Projects\C#\AdventOfCode\Day6_2\bin\Debug\Day6_2.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day6_2\bin\Debug\Day6_2.pdb
+D:\Dropbox\Projects\C#\AdventOfCode\Day6_2\obj\Debug\Day6_2.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day6_2\obj\Debug\Day6_2.pdb

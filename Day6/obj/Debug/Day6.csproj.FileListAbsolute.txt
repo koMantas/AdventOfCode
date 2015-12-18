@@ -1,0 +1,6 @@
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\bin\Debug\Day6.exe.config
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\bin\Debug\Day6.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\bin\Debug\Day6.pdb
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\obj\Debug\Day6.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\obj\Debug\Day6.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day6\obj\Debug\Day6.pdb
