@@ -1,1 +1,6 @@
 D:\Dropbox\Projects\C#\AdventOfCode\Day4\bin\Debug\Day4.exe.config
+D:\Dropbox\Projects\C#\AdventOfCode\Day4\bin\Debug\Day4.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day4\bin\Debug\Day4.pdb
+D:\Dropbox\Projects\C#\AdventOfCode\Day4\obj\Debug\Day4.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\C#\AdventOfCode\Day4\obj\Debug\Day4.exe
+D:\Dropbox\Projects\C#\AdventOfCode\Day4\obj\Debug\Day4.pdb
