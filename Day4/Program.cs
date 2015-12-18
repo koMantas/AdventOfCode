@@ -30,7 +30,8 @@ namespace Day4
             while (true)
             {
                 string keyHash = GetHash(key + answer);
-                if (Regex.IsMatch(keyHash, @"^00000\w+")){
+                //to chech for 5 zeros use ^00000\w+
+                if (Regex.IsMatch(keyHash, @"^000000\w+")){
 
                     break;
                 }
@@ -42,5 +43,7 @@ namespace Day4
             Console.WriteLine("Secret key is:" +key+answer);
             Console.WriteLine("Secret key hash:" + GetHash(key + answer));
         }
+
+
     }
 }
